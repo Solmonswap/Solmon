@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad53fd5.chunk.css",
+    "main.js": "/static/js/main.3dbabc72.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.da28964d.js",
+    "static/js/2.f7be177f.chunk.js": "/static/js/2.f7be177f.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.85cf68fab4c173da5f911a95a1f23c69.js": "/precache-manifest.85cf68fab4c173da5f911a95a1f23c69.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.f7be177f.chunk.js.LICENSE.txt": "/static/js/2.f7be177f.chunk.js.LICENSE.txt",
+    "static/media/App.less": "/static/media/App.877c7d97.less",
+    "static/media/Solmon_Logo.png": "/static/media/Solmon_Logo.39d62a4f.png",
+    "static/media/add.less": "/static/media/add.be7ecaa1.less",
+    "static/media/style.less": "/static/media/style.929c1f7b.less",
+    "static/media/styles.less": "/static/media/styles.15ed1643.less",
+    "static/media/trade.less": "/static/media/trade.d2e3c3db.less",
+    "static/media/view.less": "/static/media/view.a5c212b9.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da28964d.js",
+    "static/js/2.f7be177f.chunk.js",
+    "static/css/main.7ad53fd5.chunk.css",
+    "static/js/main.3dbabc72.chunk.js"
+  ]
+}
